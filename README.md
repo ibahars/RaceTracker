@@ -14,7 +14,7 @@ Please note that this repository is currently a **Work In Progress**. The applic
 
 - **Language:** [Kotlin](https://kotlinlang.org/)
 - **Platform:** Android Studio
-- **Architecture:** MVVM (or your chosen architecture)
+- **Architecture:** MVVM 
 - **UI Components:** Jetpack Compose / XML Layouts
 - **Database:** Firebase
 
